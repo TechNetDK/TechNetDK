@@ -17,7 +17,7 @@ Jeg kan lide at få ting til at virke – og at forstå, hvorfor de virker.
 |---|---|
 | [proxmox-guide](https://github.com/TechNetDK/proxmox-guide) | Dansk guide: sæt en Proxmox-server op – netværk, containere, lagring, GPU, sikkerhed og backup |
 | [medieserver-guide](https://github.com/TechNetDK/medieserver-guide) | Dansk guide: automatisk medieserver med Docker i en LXC-container på Proxmox |
-| [home-assistant-guide](https://github.com/TechNetDK/home-assistant-guide) | Dansk guide: Home Assistant OS som VM på Proxmox – opsætning, USB-enheder, adgang udefra og backup |
+| [home-assistant-guide](https://github.com/TechNetDK/home-assistant-guide) | Dansk guide: Home Assistant i Docker i en LXC-container på Proxmox – opsætning, backup og opdatering |
 
 ## Sprog
 Dansk · Engelsk · Arabisk
