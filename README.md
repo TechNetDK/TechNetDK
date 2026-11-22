@@ -17,7 +17,6 @@ Jeg kan lide at få ting til at virke – og at forstå, hvorfor de virker.
 |---|---|
 | [proxmox-guide](https://github.com/TechNetDK/proxmox-guide) | Dansk guide: sæt en Proxmox-server op – netværk, containere, lagring, GPU, sikkerhed og backup |
 | [medieserver-guide](https://github.com/TechNetDK/medieserver-guide) | Dansk guide: automatisk medieserver med Docker i en LXC-container på Proxmox |
-| [Auto-Media-Server](https://github.com/TechNetDK/Auto-Media-Server) | Selvhostet medieserver med Docker |
 
 ## Sprog
 Dansk · Engelsk · Arabisk
